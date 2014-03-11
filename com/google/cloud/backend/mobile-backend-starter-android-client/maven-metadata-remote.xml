@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.cloud.backend</groupId>
+  <artifactId>mobile-backend-starter-android-client</artifactId>
+  <version>0.0.1</version>
+  <versioning>
+    <versions>
+      <version>0.0.1</version>
+    </versions>
+    <lastUpdated>20140311125140</lastUpdated>
+  </versioning>
+</metadata>
